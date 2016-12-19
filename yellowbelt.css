@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#modernize{
+    width: 900px;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    height: 90px;
+    width:900px;
+    background-color: black;
+    display: block;
+    font-family: "arial";
+}
+
+#header img{
+    margin-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+#header h5{
+    display:inline-block;
+    width: 650px;
+    /*height:70px;*/
+    background: black;
+    vertical-align: top;
+    text-align: right;
+    padding-top:20px;
+    color:silver;
+}
+
+#menu {
+    height: 30px;
+    width:898px;
+    background-color:#2e3438;
+    display:block;
+    border:1px solid black;
+    font-size: 12px;
+    color:silver
+}
+
+#menu p{
+    vertical-align: top;
+    line-height: 30px;
+    text-align: center;
+    display: inline-block;
+    background-color:#2e3438;
+    width: 70px;
+    height:30px;
+    border:1px solid black;
+    margin-top:-1px;
+}
+
+#main_pic{
+    width:900px;
+    height:310px;
+    background-color: black;
+    display:block;
+    text-align: center;
+}
+
+#main_pic img{
+    border-bottom: 3px solid grey;
+}
+#main_cloud{
+    width:892px;
+    height:110px;
+    background-color:#262b2d;
+    display:block;
+    text-align: center;
+    padding-top: 25px;
+    margin-left: 4px;
+
+}
+#main_cloud .cloud_pic{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-top: 8px;
+}
+#main_cloud .text_cloud{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 150px;
+    height:100px;
+    margin-top: 8px;
+}
+#main_cloud .text_cloud h4{
+    color: orange;
+}
+
+#main_cloud .text_cloud p{
+    font-size: 12px;
+    color: silver;
+}
+
+#main_text{
+    width:900px;
+    height:120px;
+    background: linear-gradient(black, #262b2d);
+    display:block;
+}
+
+#main_text div{
+    width:620px;
+    height:80px;
+    display:inline-block;
+    margin: 5px;
+    vertical-align: top;
+    padding-left:20px;
+    padding-top: 15px;
+    background: linear-gradient(black, #262b2d);
+    font-family: "arial";
+    color: silver;
+}
+
+#main_text p{
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.button {
+    background-color: orange; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+#main_text main_box{
+    width:200px;
+    height:30px;
+    display: inline-block;
+}
+#portfolio{
+    width:900px;
+    height:60px;
+    background-color:#262b2d;
+    display:block;
+
+
+}
+#portfolio h3{
+    display:inline-block;
+    text-align: center;
+    vertical-align: top;
+    padding-top:23px;
+    padding-bottom:23px;
+    padding-left: 10px;
+    color: silver
+}
+#portfolio p3{
+    display:inline-block;
+    text-align: center;
+    vertical-align: top;
+    font-size: 12px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 690px;
+    color: orange;
+}
+
+#bottom_content{
+    width:900px;
+    height:300px;
+    background-color:#262b2d;
+    display:block;
+    margin-left: 0px;
+}
+
+#bottom_content div{
+    width:200px;
+    height:250px;
+    background:#262b2d;
+    display:inline-block;
+    margin: 10px;
+    vertical-align: top;
+    text-align: left;
+}
+
+#bottom_content img {
+    margin-right: 5px;
+    text-align: center;
+    border:3px solid silver;
+    margin-bottom: 3px;
+    padding-left: 0px;
+    width: 205px;
+}
+
+#bottom_content h4{
+    font-size: 14px;
+    margin-bottom: 5px;
+    background: #262b2d;
+    color: orange;
+}
+#bottom_content p{
+    font-size: 12px;
+    margin-bottom: 0px;
+    background: #262b2d;
+    color:silver;
+}
